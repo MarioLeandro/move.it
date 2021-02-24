@@ -68,8 +68,15 @@
     color: var(--white);
 }
 
+
 .countdownButton:disabled {
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-bottom:solid 4px var(--green);
+}
+
+.countdownButton:disabled span{
+    margin-left: 1rem;
+    padding-top: 0.35rem;
 }
