@@ -5,8 +5,8 @@
 
 ### 🖼 Layouts
 
-<span><a href="https://imgur.com/5m70aux"><img src="https://i.imgur.com/5m70aux.png" title="source: imgur.com" width="400px"/></a></span>
-<span><a href="https://imgur.com/VVslwW2"><img src="https://i.imgur.com/VVslwW2.png" title="source: imgur.com" width="400px" height="220px"/></a></span>
+<span><a href="https://imgur.com/5m70aux"><img src="https://i.imgur.com/5m70aux.png" title="source: imgur.com" width="450px"/></a></span>
+<span><a href="https://imgur.com/VVslwW2"><img src="https://i.imgur.com/VVslwW2.png" title="source: imgur.com" width="450px" height="248px"/></a></span>
 
 ### 🛠 Tecnologias
 
