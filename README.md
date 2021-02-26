@@ -8,9 +8,9 @@
 <span><a href="https://imgur.com/5m70aux"><img src="https://i.imgur.com/5m70aux.png" title="source: imgur.com" width="450px"/></a></span>
 <span><a href="https://imgur.com/VVslwW2"><img src="https://i.imgur.com/VVslwW2.png" title="source: imgur.com" width="450px" height="248px"/></a></span>
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [Next.js](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
